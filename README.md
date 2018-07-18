@@ -22,7 +22,7 @@ pod 'MTDropDownMenus'
 
 ## Author
 
-rstx_reg@aliyun.com, secrimart@aliyun.com
+Secrimart, secrimart@aliyun.com
 
 ## License
 
