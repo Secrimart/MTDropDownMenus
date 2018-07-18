@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MTDropDownMenus_Example' do
+  pod 'MTDropDownMenus', :path => '../'
+
+  target 'MTDropDownMenus_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
